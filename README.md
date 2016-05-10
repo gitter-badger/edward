@@ -33,6 +33,8 @@ It also has __features__ including
 
 ## Getting Started
 
+[![Join the chat at https://gitter.im/bakersfieldag/edward](https://badges.gitter.im/bakersfieldag/edward.svg)](https://gitter.im/bakersfieldag/edward?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [You can find a tutorial here](https://github.com/blei-lab/edward/wiki/Tutorial)
 for getting started with Edward, as well as a
 [tutorial here](https://github.com/blei-lab/edward/wiki/Tutorial-for-Research)
